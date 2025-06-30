@@ -7,8 +7,8 @@ const Layout = () => {
 	  <section className="min-h-screen flex flex-col"> 
 		  <Header />
 		  <div className="py-4 mt-2 ">
-			  <p className="px-14 text-2xl font-bold">UK Used Laptops Computer in Nigeria</p>
-			  <div className="px-14 mt-8 py-3 bg-gray-700 text-white flex justify-center items-center">
+			  <p className="px-10 md:px-14  text-2xl font-bold">UK Used Laptops Computer in Nigeria</p>
+			  <div className="px-10 md:px-14  mt-8 py-3 bg-gray-700 text-white flex justify-center items-center">
 				<p className="text-xl font-semibold">Welcome to our Store</p>
 			  </div>
 		  </div>

@@ -7,7 +7,7 @@ import { IoPersonSharp } from "react-icons/io5";
 const Header = () => {
 	// const cartNumber = useRef(null)
   return (
-	  <header className="py-4 px-14 bg-gray-800 flex justify-between items-center">
+	  <header className="py-4 px-10 md:px-14  bg-gray-800 flex justify-between items-center">
 		  <Link to="/" className="text-white text-[1.3rem] font-bold"><span className="border rounded-[3px] p-1 border-white">M</span>uck.ng</Link>
 		  <div className="hidden border rounded-[3px] p-2 bg-white sm:flex md:flex lg:flex items-center w-[60%]">
 			  <input type="search" className="flex-1 px-2 py-2 border-0  outline-0 text-sm" placeholder="Search"/>

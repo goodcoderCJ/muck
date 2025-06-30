@@ -57,7 +57,7 @@ const [couponError, setCouponError] = useState("");
 
 
   return (
-    <div className="grid md:grid-cols-2 gap-6 py-4 px-14">
+    <div className="grid md:grid-cols-2 gap-6 py-4 px-10 md:px-14 ">
     <ProductList products={products} addToCart={addToCart} />
     <Cart
       cartItems={cartItems}

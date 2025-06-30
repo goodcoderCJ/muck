@@ -23,7 +23,7 @@ const Cart = ({
 					<p className="font-bold">{item.name}</p>
 					<p>₦{item.price} x {item.qty}</p>
 				  </div>
-				  <div className="flex space-x-2">
+				  <div className="flex flex-col md:flex-row gap-2 md:space-x-2">
 					<button
 					  onClick={() => incrementQty(item.id)}
 					  className="bg-green-500 px-2 py-1 text-white rounded"
