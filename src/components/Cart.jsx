@@ -33,7 +33,7 @@ const Cart = ({
 							</button>
 							<button
 					  onClick={() => decrementQty(item.id)}
-					  className="bg-green-300 px-2 py-1 text-white rounded"
+					  className="bg-yellow-500 px-2 py-1 text-white rounded"
 					>
 					  -
 					</button>
