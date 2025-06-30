@@ -35,10 +35,18 @@ const [couponError, setCouponError] = useState("");
     );
   };
 
+  const  decrementQty = (id) => {
+    setCartItems((items) =>
+      items.map((item) =>
+        item.id === id ? { ...item, qty: item.qty - 1 } : item
+      )
+    );
+  };
+
   const applyCoupon = () => {
     const regex = /^POWERLABSx$/;
     if (regex.test(couponCode)) {
-      setCoupon(12.5);
+      setCoupon(13.2);
       setCouponError("");
     } else {
       setCoupon(0);
@@ -63,6 +71,7 @@ const [couponError, setCouponError] = useState("");
       cartItems={cartItems}
       removeFromCart={removeFromCart}
       incrementQty={incrementQty}
+      decrementQty={decrementQty}
       applyCoupon={applyCoupon}
       total={getTotal()}
       coupon={coupon}

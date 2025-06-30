@@ -2,6 +2,7 @@ const Cart = ({
 	cartItems,
 	removeFromCart,
 	incrementQty,
+	decrementQty,
 	applyCoupon,
 	total,
 	coupon,
@@ -29,6 +30,12 @@ const Cart = ({
 					  className="bg-green-500 px-2 py-1 text-white rounded"
 					>
 					  +
+							</button>
+							<button
+					  onClick={() => decrementQty(item.id)}
+					  className="bg-green-300 px-2 py-1 text-white rounded"
+					>
+					  -
 					</button>
 					<button
 					  onClick={() => removeFromCart(item.id)}
