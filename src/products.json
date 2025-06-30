@@ -1,14 +1,14 @@
 [
-	{ "id": 1, "name": "MacBook", "price": 5000, "image": "../public/20191106_095722-scaled-300x300.jpg" },
-	{ "id": 2, "name": "Apple-Macbook Pro", "price": 8000, "image": "../public/APPLE-MACBOOK-PRO-2017-USED-LAPTOP-UK-2-300x300.jpg" },
-	{ "id": 3, "name": "Dell-Latitude 7390", "price": 6000, "image": "../public/DELL-LATITUDE-7390-TOUCHSCREEN-USED-LAPTOP-UK-2-300x300.jpg" },
-	{ "id": 4, "name": "Dell-Latitude", "price": 6000, "image": "../public/DELL-LATITUDE.jpg" },
-	{ "id": 5, "name": "Hp-Envy-17", "price": 6000, "image": "../public/Hp-Envy-17-AE165NR-300x300.jpg" },
-	{ "id": 6, "name": "lenovo-yoga", "price": 6000, "image": "../public/lenova-yoga.jpg" },
-	{ "id": 7, "name": "lenovo-thinkpad", "price": 10000, "image": "../public/lenovo-thinkpad.jpg" },
-	{ "id": 8, "name": "lenovo", "price": 116000, "image": "../public/Lenovo.jpg" },
-	{ "id": 9, "name": "Dell gaming", "price": 6000, "image": "../public/UK-Used-Dell-Gaming-Nvidia-Graphics-Laptop-03-300x300.jpg" },
-	{ "id": 10, "name": "HP Elitebook", "price": 6000, "image": "../public/UK-USED-HP-ELITEBOOK-.jpg" },
-	{ "id": 11, "name": "HP Pavilion", "price": 6000, "image": "../public/UK-Used-Hp-Pavilion-15-CS2078NR-01-300x300.jpg" }
+	{ "id": 1, "name": "MacBook", "price": 5000, "image": "/public/20191106_095722-scaled-300x300.jpg" },
+	{ "id": 2, "name": "Apple-Macbook Pro", "price": 8000, "image": "/public/APPLE-MACBOOK-PRO-2017-USED-LAPTOP-UK-2-300x300.jpg" },
+	{ "id": 3, "name": "Dell-Latitude 7390", "price": 6000, "image": "/public/DELL-LATITUDE-7390-TOUCHSCREEN-USED-LAPTOP-UK-2-300x300.jpg" },
+	{ "id": 4, "name": "Dell-Latitude", "price": 6000, "image": "/public/DELL-LATITUDE.jpg" },
+	{ "id": 5, "name": "Hp-Envy-17", "price": 6000, "image": "/public/Hp-Envy-17-AE165NR-300x300.jpg" },
+	{ "id": 6, "name": "lenovo-yoga", "price": 6000, "image": "/public/lenova-yoga.jpg" },
+	{ "id": 7, "name": "lenovo-thinkpad", "price": 10000, "image": "/public/lenovo-thinkpad.jpg" },
+	{ "id": 8, "name": "lenovo", "price": 116000, "image": "/public/Lenovo.jpg" },
+	{ "id": 9, "name": "Dell gaming", "price": 6000, "image": "/public/UK-Used-Dell-Gaming-Nvidia-Graphics-Laptop-03-300x300.jpg" },
+	{ "id": 10, "name": "HP Elitebook", "price": 6000, "image": "/public/UK-USED-HP-ELITEBOOK-.jpg" },
+	{ "id": 11, "name": "HP Pavilion", "price": 6000, "image": "/public/UK-Used-Hp-Pavilion-15-CS2078NR-01-300x300.jpg" }
 
   ]
