@@ -1,5 +1,5 @@
 [
-	{ "id": 1, "name": "MacBook", "price": 5000, "image": "/public/images/20191106_095722-scaled-300x300.jpg" },
+	{ "id": 1, "name": "MacBook", "price": 5000, "image": "/images/20191106_095722-scaled-300x300.jpg" },
 	{ "id": 2, "name": "Apple-Macbook Pro", "price": 8000, "image": "/images/APPLE-MACBOOK-PRO-2017-USED-LAPTOP-UK-2-300x300.jpg" },
 	{ "id": 3, "name": "Dell-Latitude 7390", "price": 6000, "image": "/images/DELL-LATITUDE-7390-TOUCHSCREEN-USED-LAPTOP-UK-2-300x300.jpg" },
 	{ "id": 4, "name": "Dell-Latitude", "price": 6000, "image": "/images/DELL-LATITUDE.jpg" },
