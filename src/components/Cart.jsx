@@ -67,7 +67,7 @@ const Cart = ({
 				Apply Coupon
 			  </button>
 			  {coupon > 0 && (
-				<p className="text-green-700 mt-2">12.5% Discount Applied!</p>
+				<p className="text-green-700 mt-2">13.2% Discount Applied!</p>
 			  )}
 			  {couponError && (
 				<p className="text-red-500 mt-1">{couponError}</p>
